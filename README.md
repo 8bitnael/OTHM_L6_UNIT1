@@ -1,9 +1,9 @@
-=====================================
- Qual        : OTHM LEVEL 6 UNIT1
- Content     : Advanced Computer Networks
- Name        : UNIT1_NetWorking.c
- Author      : Daniele Castrovinci
-=====================================
+/* 
+* Qual        : OTHM LEVEL 6 UNIT1
+* Content     : Advanced Computer Networks
+* Name        : UNIT1_NetWorking.c
+* Author      : Daniele Castrovinci
+*/
 
 Project Tasks:
 1)Implementation of a Generic TCP Client/Server Program
